@@ -1,0 +1,16 @@
+html {
+    box-sizing: inherit;
+    width: 100vw;
+    color: rgb(51, 51, 51);
+    background-color: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif;
+    margin: 40px 100px;
+}
+
+img {
+    width: 40%;
+}
+
+p {
+    width: 60%;
+}

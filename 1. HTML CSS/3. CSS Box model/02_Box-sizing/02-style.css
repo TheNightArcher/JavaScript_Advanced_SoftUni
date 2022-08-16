@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+section {
+    width: 250px;
+    height: 250px;
+    border: 5px dotted cadetblue;
+    text-align: center;
+}
+
+section p {
+    border: 5px solid blue;
+    padding: 20px;
+    width: 100%;
+}

@@ -1,0 +1,26 @@
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: silver;
+}
+
+.gallery {
+    margin: 60px 120px;
+
+}
+
+.gallery li {
+    border: 0.4rem solid black;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+img {
+    max-width: 300px;
+}
